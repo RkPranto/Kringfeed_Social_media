@@ -1,0 +1,51 @@
+*{
+	margin:0 auto;
+	padding:0;
+
+}
+.container{
+	width:450px;
+	margin-top: 90px;
+}
+
+form{
+	background: #EBEDEF;
+}
+
+form p{
+	color:red;
+}
+
+.form-block{
+	padding:15px;
+	border:3px solid #E1E2E1;
+}
+.submit-button{
+	width: 200px;
+	text-align: center;
+	margin: 0 auto;
+	background: #87C540;
+}
+
+.head-title{
+	background: #87C540;
+	height: 60px;
+}
+.head-title h2{
+	padding-top:14px;
+}
+
+.reg_link{
+	color: green;
+	font-weight: bold;
+}
+.reg_link:hover{
+	text-decoration: none;
+}
+input[submit]{
+	color:white;
+}
+
+#block2{
+	display: none;
+}
